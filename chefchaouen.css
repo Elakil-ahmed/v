@@ -1,0 +1,106 @@
+label{
+    font-size: 10vh;
+}
+.a{
+    background-color: aquamarine;
+    height: 130px;
+    border-radius: 20px;
+}
+i{
+    top: 20px;
+    left: 80%;
+}
+img{
+    height: 350px;
+    width: 325px;
+    border-radius: 15px;
+    margin-left: 10px;
+}
+.face{
+    background-color: aqua;
+    border-radius: 10px;
+}
+.b{
+    color: deeppink;
+    margin-left: 5px;
+}
+.d{
+    margin-left: 10px;
+    font-size: 5vh;
+}
+.e{
+    color: darkorchid;
+    margin-left: 20px;
+}
+.f{
+    background-color: darkgoldenrod;
+    border-radius: 10px;
+    color:green;
+}
+.g{
+    background-color: mediumturquoise;
+    border-radius: 20px;
+}
+.maatir{
+    margin-left: 20px;
+}
+.h{
+    background-color: salmon;
+    border-radius: 20px;
+}
+.i{
+    background-color: sandybrown;
+    border-radius: 20px;
+}
+.c{
+    margin-left: 30px;
+}
+.localisation{
+    background-color:rgb(123, 233, 209);
+    color: green;
+}
+.k{
+    background-color: slategrey;
+    height: 100ph;
+    width: 100ph;
+}
+button{
+    margin-left: 100px;
+    background-color: yellow;
+    color: green;
+}
+.carts{
+    margin-left: 30px;
+    position: relative ;
+    gap: 20px;
+    display:flex;
+}
+.m{
+    background-color: sandybrown;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 25px solid rosybrown ; 
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.n{
+    margin-top: 80px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+body{
+    background-color:skyblue;
+}
+.r{
+    background-color:red;
+    height: 100px;
+    margin-top: 10px;
+    border-radius: 50px;
+}
+audio{
+    margin-top: 20Px;
+    margin-left: 25px;   
+}
+
+
